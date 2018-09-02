@@ -5,7 +5,10 @@ const awsmobile =  {
     "aws_cognito_identity_pool_id": "us-east-1:2209aa55-4766-476c-a892-722e6d38d91d",
     "aws_cognito_region": "us-east-1",
     "aws_mobile_analytics_app_id": "d4676b2cf7c54001a6f23dfb3006fe4c",
-    "aws_mobile_analytics_app_region": "us-east-1"
+    "aws_mobile_analytics_app_region": "us-east-1",
+    "aws_content_delivery_bucket": "mymplifyroject-20180902105536--hostingbucket",
+    "aws_content_delivery_bucket_region": "us-east-1",
+    "aws_content_delivery_url": "http://mymplifyroject-20180902105536--hostingbucket.s3-website-us-east-1.amazonaws.com"
 };
 
 
