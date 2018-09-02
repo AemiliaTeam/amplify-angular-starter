@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "mymplifyroject-20180902101643-authRole",
+            "UnauthRoleArn": "arn:aws:iam::917008633668:role/mymplifyroject-20180902101643-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::917008633668:role/mymplifyroject-20180902101643-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "mymplifyroject-20180902101643-deployment",
+            "UnauthRoleName": "mymplifyroject-20180902101643-unauthRole",
+            "StackName": "mymplifyroject-20180902101643",
+            "StackId": "arn:aws:cloudformation:us-east-1:917008633668:stack/mymplifyroject-20180902101643/f70c6fc0-aed3-11e8-83df-50d5ca6e60e6"
+        }
+    }
+}
