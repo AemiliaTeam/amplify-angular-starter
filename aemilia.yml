@@ -8,7 +8,7 @@ build:
                 - 'npm install'
         build:
             commands:
-                - 'npm build'
+                - 'ng build'
         post_build:
             commands: []
     artifacts:
